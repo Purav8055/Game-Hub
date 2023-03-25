@@ -1,6 +1,6 @@
 #How to run game
 <<<<<<< HEAD
-#By Code blasters 💣
+#By Code blasters 💣 #Priyam & Purav
 =======
 - by Code blasters
 >>>>>>> game_hub_copy
